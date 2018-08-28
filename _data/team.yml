@@ -1,9 +1,9 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Didier Jean-François"
+  surname: "Charmin Dee"
+  title: "Boss"
+  thumbnailUrl: 0.png
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -17,7 +17,7 @@
   name: "Oleh"
   surname: "Zasadnyy"
   title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  thumbnailUrl: 1.png
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -29,7 +29,7 @@
   name: "Ostap"
   surname: "Andrusiv"
   title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  thumbnailUrl: 2.png
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -38,23 +38,4 @@
     - {name: "twitter", link: "https://twitter.com/p1f"}
     - {name: "site", link: "http://andrusiv.com/"}
 - 
-  id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+  

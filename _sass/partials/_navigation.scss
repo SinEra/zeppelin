@@ -1,7 +1,7 @@
 $nav-color: #fff;
-$nav-color-hover: #cfcfcf;
-$nav-scroll-color: rgba(0, 0, 0, .5);
-$nav-scroll-color-hover: rgba(0, 0, 0, .8);
+$nav-color-hover: #F9a620;
+$nav-scroll-color: white;
+$nav-scroll-color-hover: #f9a620;
 
 .top-header {
     position: fixed;
@@ -40,10 +40,11 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
         display: inline-block;
         float: left;
         width: 185px;
-        height: 60px;
-        margin-right: 20px;
+        height: 80px;
+        /*margin-right: 20px;*/
         transform: scale(.7);
         vertical-align: middle;
+        margin-top: -10px;
          @media (max-width: 767px) {
             transform: scale(.6);
         }

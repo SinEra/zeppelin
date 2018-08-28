@@ -1,6 +1,6 @@
 - 
   id: 3
-  name: "Dawid"
+  name: "Gabrielle Couture Lecavalier"
   surname: "Ostrowski"
   company: "Google Poland"
   title: "Developer Relations Program Manager"
@@ -11,7 +11,7 @@
     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 - 
   id: 4
-  name: "Dmytro"
+  name: "Richard Lapointe"
   surname: "Danylyk"
   company: "Lemberg Solutions Limited"
   title: "Android Developer"
